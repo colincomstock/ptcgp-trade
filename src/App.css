@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  font-family: "gira-sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;  
+  background: rgb(222,235,242);
+  background: linear-gradient(90deg, rgba(222,235,242,1) 3%, rgba(234,242,247,1) 57%, rgba(222,235,242,1) 100%);
+  color: rgb(0, 0, 0);
+  width: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  background: rgb(222,235,242);
+  background: linear-gradient(90deg, rgba(222,235,242,1) 3%, rgba(234,242,247,1) 57%, rgba(222,235,242,1) 100%);
+  color: rgb(36, 36, 36);
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 1vmin);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+}
+
+.header-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: "gira-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: rgb(36, 36, 36);
+  margin-top: 0px;
+}
+
+.header-logo > span {
+  font-size: 2em;
+  margin-left: 10px;
+}
+
+.base-styling {
+  background: rgb(222,235,242);
+  background: linear-gradient(90deg, rgba(222,235,242,1) 3%, rgba(234,242,247,1) 57%, rgba(222,235,242,1) 100%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header > h1 {
+  margin-bottom: 0;
+}
+
+.rainbow-divider {
+  height: 6px;
+  width: 100%;
+  background: linear-gradient(
+    to right,
+    #ff0000,
+    #ff8000,
+    #ffff00,
+    #00ff00,
+    #00ffff,
+    #0000ff,
+    #8000ff,
+    #ff0080
+  );
+  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.384);
+  background-size: 200% 100%;
+  animation: rainbow-move 25s linear infinite;
+  margin-bottom: 4px;
+}
+
+@keyframes rainbow-move {
+  0% {
+    background-position: 0% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+main {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.main-buttons > button {
+  font-family: "gira-sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: rgb(96, 143, 143);
+  border: none;
+  border-radius: 15px;
+  color: rgb(90, 90, 90);
+  padding: 10px 20px;
+  margin: 10px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  min-width: 200px;
+  min-height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 20px;
+}
+
+.main-buttons > p {
+  margin-bottom: auto;
+}
