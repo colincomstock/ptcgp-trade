@@ -1,0 +1,2270 @@
+[
+    {
+        "name": "Abra",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Abra_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Aerodactyl",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Aerodactyl_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Alakazam",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Alakazam_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Alakazam",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Alakazam_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Arbok",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Arbok_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Arcanine",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Arcanine_1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Arcanine",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Arcanine_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Articuno",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Articuno_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Articuno",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Articuno_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Beedrill",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Beedrill_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Bellsprout",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Bellsprout_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Bisharp",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Bisharp_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Blaine",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Blaine_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Blastoise",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Blastoise_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Blastoise",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Blastoise_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Blitzle",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Blitzle_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Brock",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Brock_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Bruxish",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Bruxish_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Bulbasaur",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Bulbasaur_1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Bulbasaur",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Bulbasaur_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Butterfree",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Butterfree_1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Caterpie",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Caterpie_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Centiskorch",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Centiskorch_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Chansey",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Chansey_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Charizard",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Charizard_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Charizard",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Charizard_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Charmander",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Charmander_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Charmander",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Charmander_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Charmeleon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Charmeleon_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Cinccino",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Cinccino_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Clefable",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Clefable_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Clefairy",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Clefairy_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Clobbopus",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Clobbopus_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Cloyster",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Cloyster_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Cottonee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Cottonee_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Cubone",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Cubone_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Cubone",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Cubone_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dewgong",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dewgong_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Diglett",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Diglett_1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Diglett",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Diglett_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ditto",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ditto_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ditto",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ditto_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dodrio",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dodrio_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Doduo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Doduo_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dome",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dome_Fossil_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dragonair",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dragonair_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dragonite",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dragonite_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dragonite",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dragonite_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dratini",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dratini_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Drowzee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Drowzee_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dubwool",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dubwool_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ducklett",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ducklett_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Dugtrio",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Dugtrio_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Eelektrik",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Eelektrik_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Eelektross",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Eelektross_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Eevee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Eevee_a1_var1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 1,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Eevee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Eevee_a1_var2.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 2,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Eevee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Eevee_a1_var3.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 3,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Eevee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Eevee_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ekans",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ekans_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Electabuzz",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Electabuzz_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Electrode",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Electrode_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Electrode",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Electrode_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Erika",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Erika_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Exeggcute",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Exeggcute_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Exeggutor",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Exeggutor_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Exeggutor",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Exeggutor_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Farfetchd",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Farfetchd_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Fearow",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Fearow_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Flareon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Flareon_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Froakie",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Froakie_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Frogadier",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Frogadier_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Frosmoth",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Frosmoth_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gardevoir",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gardevoir_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gastly",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gastly_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gengar",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gengar_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gengar",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gengar_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Geodude",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Geodude_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Giovanni",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Giovanni_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gloom",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gloom_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gloom",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gloom_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gogoat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gogoat_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Golbat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Golbat_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Golbat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Golbat_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Goldeen",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Goldeen_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Golduck",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Golduck_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Golem",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Golem_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Golett",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Golett_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Golurk",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Golurk_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Grapploct",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Grapploct_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Graveler",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Graveler_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Greninja",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Greninja_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Grimer",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Grimer_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Growlithe",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Growlithe_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gyarados",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gyarados_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Gyarados",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Gyarados_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Haunter",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Haunter_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Heatmor",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Heatmor_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Heliolisk",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Heliolisk_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Helioptile",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Helioptile_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Helix",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Helix_Fossil_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Hitmonchan",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Hitmonchan_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Hitmonlee",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Hitmonlee_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Horsea",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Horsea_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Hypno",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Hypno_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ivysaur",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ivysaur_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Jigglypuff",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Jigglypuff_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Jolteon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Jolteon_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Jynx",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Jynx_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kabuto",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kabuto_a1 (2).png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kabuto",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kabuto_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kadabra",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kadabra_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kakuna",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kakuna_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kangaskhan",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kangaskhan_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kingler",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kingler_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Kirlia",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Kirlia_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Koffing",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Koffing_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Koga",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Koga_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Krabby",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Krabby_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Lapras",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Lapras_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Lapras",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Lapras_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Lickitung",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Lickitung_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Lilligant",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Lilligant_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Lt.",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Lt._Surge_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Machamp",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Machamp_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Machamp",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Machamp_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Machoke",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Machoke_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Machop",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Machop_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Magikarp",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Magikarp_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Magmar",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Magmar_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Magnemite",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Magnemite_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Magneton",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Magneton_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mankey",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mankey_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Marowak",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Marowak_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Marowak",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Marowak_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mawile",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mawile_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Melmetal",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Melmetal_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Meltan",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Meltan_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Meowth",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Meowth_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Meowth",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Meowth_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Metapod",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Metapod_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mewtwo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mewtwo_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mewtwo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mewtwo_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mewtwo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mewtwo_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mienfoo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mienfoo_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mienshao",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mienshao_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Minccino",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Minccino_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Misty",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Misty_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Moltres",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Moltres_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Moltres",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Moltres_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Mr.Mime",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Mr.Mime_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Muk",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Muk_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidoking",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidoking_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidoking",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidoking_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidoqueen",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidoqueen_1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Nidoqueen",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidoqueen_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidoran",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidoran_a1 (2).png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidoran",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidoran_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidorina",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidorina_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Nidorino",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Nidorino_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ninetales",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ninetales_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Oddish",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Oddish_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Old",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Old_Amber_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Omanyte",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Omanyte_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Omastar",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Omastar_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Onix",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Onix_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Parasect",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Parasect_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Paras",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Paras_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pawniard",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pawniard_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Persian",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Persian_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Petilil",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Petilil_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pidgeotto",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pidgeotto_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pidgeot",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pidgeot_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pidgeot",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pidgeot_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pidgey",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pidgey_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pikachu",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pikachu_3.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Pikachu",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pikachu_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pikachu",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pikachu_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pincurchin",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pincurchin_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pinsir",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pinsir_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pinsir",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pinsir_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Poliwag",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Poliwag_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Poliwrath",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Poliwrath_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Polywhirl",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Polywhirl_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ponyta",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ponyta_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Porygon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Porygon_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Porygon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Porygon_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Primeape",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Primeape_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Psyduck",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Psyduck_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Pyukumuku",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Pyukumuku_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Raichu",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Raichu_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Ralts",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Ralts_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Rapidash",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Rapidash_3.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Rapidash",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Rapidash_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Raticate",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Raticate_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Rattata",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Rattata_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Rhydon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Rhydon_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Rhyhorn",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Rhyhorn_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Sabrina",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Sabrina_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Salandit",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Salandit_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Salazzle",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Salazzle_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Sandshrew",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Sandshrew_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Sandslash",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Sandslash_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Scyther",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Scyther_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Seaking",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Seaking_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Seedra",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Seedra_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Seel",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Seel_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Shellder",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Shellder_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Sizzlipede",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Sizzlipede_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Skiddo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Skiddo_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Slowbro",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Slowbro_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Slowpoke",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Slowpoke_3.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "unknown"
+    },
+    {
+        "name": "Slowpoke",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Slowpoke_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Snom",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Snom_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Snorlax",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Snorlax_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Snorlax",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Snorlax_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Spearow",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Spearow_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Squirtle",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Squirtle_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Squirtle",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Squirtle_fa_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Starmie",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Starmie_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Starmie",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Starmie_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Staryu",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Staryu_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Swanna",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Swanna_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Swoobat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Swoobat_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Tangela",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Tangela_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Tauros",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Tauros_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Tentacool",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Tentacool_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Tentacruel",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Tentacruel_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Tynamo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Tynamo_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Vaporeon",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Vaporeon_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Venomoth",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Venomoth_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Venonat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Venonat_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Venusaur",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Venusaur_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Venusaur",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Venusaur_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Victreebel",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Victreebel_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Vileplume",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Vileplume_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Voltorb",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Voltorb_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Vulpix",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Vulpix_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Wartortle",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Wartortle_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Weedle",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Weedle_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Weepinbell",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Weepinbell_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Weezing",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Weezing_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Weezing",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Weezing_fullart_a1.png",
+        "rarity": "Unknown",
+        "full_art": true,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Whimsicott",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Whimsicott_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Wigglytuff",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Wigglytuff_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Wigglytuff",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Wigglytuff_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Woobat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Woobat_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Wooloo",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Wooloo_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Zapdos",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Zapdos_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Zapdos",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Zapdos_ex_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": true,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Zebstrika",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Zebstrika_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    },
+    {
+        "name": "Zubat",
+        "image_path": "pokemon-cards-a1-filtered/en_us/Zubat_a1.png",
+        "rarity": "Unknown",
+        "full_art": false,
+        "is_ex": false,
+        "variation": 0,
+        "base_pack": "a1"
+    }
+]
